@@ -53,7 +53,11 @@
             <li><img src="imagens/10-reais.jpg" alt="Nota de 10" class="nota"> x<?=$tot10?> </li>
             <li><img src="imagens/5-reais.jpg" alt="Nota de 5" class="nota"> x<?=$tot5?> </li>
        </ul>
+
+       <p><a style="color:rgb(100, 3, 255);" href="javascript:history.go(-1)">Voltar </a></p>
     </section>
+
+    
     
 </body>
 </html>
